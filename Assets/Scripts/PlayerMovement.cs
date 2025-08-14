@@ -1,55 +1,118 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-private float horizontal;
-private string Horizontal = "hello";
-[SerializeField] private float speed = 8f;
-[SerializeField] private float jumpingPower = 16f;
-private bool isFacingRight = true;
+    [SerializeField] private Transform wallCheck;
+    [SerializeField] private LayerMask wallLayer;
+    [SerializeField] private float wallJumpPower = 16f;
+    private bool isTouchingWall;
+    private bool isWallJumping;
+    private float wallJumpDirection;
+    private float wallJumpTime = 0.2f;
 
-[SerializeField] private Rigidbody2D rb;
-[SerializeField] private Transform groundCheck;
-[SerializeField] private LayerMask groundLayer;
-    // Update is called once per frame
-void Update()
-{
-horizontal = Input.GetAxisRaw("Horizontal");
-if (Input.GetButtonDown("Jump") && IsGrounded())
-{
-    rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
-}
+    private float horizontal;
+    [SerializeField] private float speed = 8f;
+    [SerializeField] private float jumpingPower = 16f;
 
-if (Input.GetButtonUp("Jump") && rb.velocity.y > 0f)
-{
-rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y * 0.5f);
-}
+    private bool isFacingRight = true;
+    private bool canDash = true;
+    private bool isDashing;
+    [SerializeField] private float dashingPower = 24f;
+    [SerializeField] private float dashingTime = 0.2f;
+    [SerializeField] private float dashingCooldown = 1f;
+
+    [SerializeField] private Rigidbody2D rb;
+    [SerializeField] private Transform groundCheck;
+    [SerializeField] private LayerMask groundLayer;
+    [SerializeField] private TrailRenderer tr;
+
+    void Update()
+    {
+        if (isDashing)
+            return;
+
+        horizontal = Input.GetAxisRaw("Horizontal");
+
+        // Wall check
+        isTouchingWall = Physics2D.OverlapCapsule(wallCheck.position, new Vector2(1.4f, 0.2f), CapsuleDirection2D.Horizontal, 0f, wallLayer);
+
+        if (Input.GetButtonDown("Jump"))
+        {
+            if (IsGrounded())
+            {
+                rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
+            }
+            else if (isTouchingWall)
+            {
+                isWallJumping = true;
+                wallJumpDirection = isFacingRight ? -1 : 1;
+                rb.velocity = new Vector2(wallJumpDirection * speed, wallJumpPower);
+                Invoke(nameof(StopWallJumping), wallJumpTime);
+            }
+        }
+
+        if (Input.GetButtonUp("Jump") && rb.velocity.y > 0f)
+        {
+            rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y * 0.5f);
+        }
+
+        if (Input.GetKeyDown(KeyCode.LeftShift) && canDash)
+        {
+            StartCoroutine(Dash());
+        }
 
         Flip();
-}
+    }
 
     private void FixedUpdate()
     {
+        if (isDashing || isWallJumping)
+            return;
+
         rb.velocity = new Vector2(horizontal * speed, rb.velocity.y);
     }
-    
+
     private bool IsGrounded()
     {
         return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
     }
-    
+
     private void Flip()
     {
-        if (isFacingRight && horizontal < 0f || !isFacingRight && horizontal > 0f)
+        if ((isFacingRight && horizontal < 0f) || (!isFacingRight && horizontal > 0f))
         {
-        isFacingRight = !isFacingRight;
-        Vector3 localscale = transform.localScale;
-        localscale.x *= -1f;
-        transform.localScale = localscale;
+            isFacingRight = !isFacingRight;
+            Vector3 localscale = transform.localScale;
+            localscale.x *= -1f;
+            transform.localScale = localscale;
         }
-        
+    }
+
+    private void StopWallJumping()
+    {
+        isWallJumping = false;
+    }
+
+    private IEnumerator Dash()
+    {
+        canDash = false;
+        isDashing = true;
+        tr.emitting = true;
+
+        float originalGravityScale = rb.gravityScale;
+        rb.gravityScale = 0f;
+
+        // Dash in the direction the player is facing
+        rb.velocity = new Vector2((isFacingRight ? 1 : -1) * dashingPower, 0f);
+
+        yield return new WaitForSeconds(dashingTime);
+
+        rb.gravityScale = originalGravityScale;
+        isDashing = false;
+        tr.emitting = false;
+
+        yield return new WaitForSeconds(dashingCooldown);
+        canDash = true;
     }
 }
-
