@@ -38,7 +38,7 @@ public class PlayerMovement : MonoBehaviour
         // Wall check
         isTouchingWall = Physics2D.OverlapCapsule(wallCheck.position, new Vector2(1.4f, 0.2f), CapsuleDirection2D.Horizontal, 0f, wallLayer);
         if (IsGrounded())
-        { 
+        {
             canDash = true;
         }
         if (Input.GetButtonDown("Jump"))
@@ -46,7 +46,7 @@ public class PlayerMovement : MonoBehaviour
             if (IsGrounded())
             {
                 rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
-                
+
             }
             else if (isTouchingWall)
             {
