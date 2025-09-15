@@ -21,7 +21,7 @@ public class PlayerMovement : MonoBehaviour
     private bool isDashing;
     [SerializeField] private float dashingPower = 24f;
     [SerializeField] private float dashingTime = 0.2f;
-    [SerializeField] private float dashingCooldown = 1f;
+    [SerializeField] private float dashingCooldown = 0.5f;
 
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
@@ -38,7 +38,7 @@ public class PlayerMovement : MonoBehaviour
         // Wall check
         isTouchingWall = Physics2D.OverlapCapsule(wallCheck.position, new Vector2(1.4f, 0.2f), CapsuleDirection2D.Horizontal, 0f, wallLayer);
         if (IsGrounded())
-        { 
+        {
             canDash = true;
         }
         if (Input.GetButtonDown("Jump"))
@@ -46,7 +46,13 @@ public class PlayerMovement : MonoBehaviour
             if (IsGrounded())
             {
                 rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
                 
+>>>>>>> parent of 9811eaf (stuff aded)
+=======
+>>>>>>> 5f805c74f470b16cf6c144edaae0ecf6842bd285
             }
             else if (isTouchingWall)
             {
@@ -120,6 +126,5 @@ public class PlayerMovement : MonoBehaviour
 
         yield return new WaitForSeconds(dashingCooldown);
         canDashTime = true;
-
     }
 }
