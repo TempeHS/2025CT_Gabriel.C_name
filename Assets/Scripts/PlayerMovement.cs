@@ -21,7 +21,7 @@ public class PlayerMovement : MonoBehaviour
     private bool isDashing;
     [SerializeField] private float dashingPower = 24f;
     [SerializeField] private float dashingTime = 0.2f;
-    [SerializeField] private float dashingCooldown = 1f;
+    [SerializeField] private float dashingCooldown = 0.5f;
 
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
@@ -46,7 +46,6 @@ public class PlayerMovement : MonoBehaviour
             if (IsGrounded())
             {
                 rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
-
             }
             else if (isTouchingWall)
             {
@@ -120,6 +119,5 @@ public class PlayerMovement : MonoBehaviour
 
         yield return new WaitForSeconds(dashingCooldown);
         canDashTime = true;
-
     }
 }
