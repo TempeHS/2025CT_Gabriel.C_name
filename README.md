@@ -1,8 +1,6 @@
 
 # 2025CT_Gabriel.C_Conquest
 
-Simple overview of use/purpose.
-
 ## General
 **About**
 
