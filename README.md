@@ -4,7 +4,7 @@
 Simple overview of use/purpose.
 
 ## General
-#**About**
+**About**
 
 My Game "conquest" you play as a boxis about climbing to the top of the world while many spikes and hard obstacles are in your way. 
 
