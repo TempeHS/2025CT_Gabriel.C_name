@@ -4,13 +4,13 @@
 Simple overview of use/purpose.
 
 ## General
-#**About**
+##**About**
 
 My Game "conquest" you play as a boxis about climbing to the top of the world while many spikes and hard obstacles are in your way. 
 
 An in-depth paragraph about your project and overview of use.
 
-<h1 align="center">2024IST_Kelvin.A_Knights_Light</h1>
+<h1 align="center"> 2025CT_Gabriel.C_Conquest</h1>
 
 <h2 align="center">Table of Contents</h2>
 
