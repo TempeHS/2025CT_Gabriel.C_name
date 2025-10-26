@@ -58,22 +58,10 @@ My Game "conquest" you play as a box is about climbing to the top of the world w
 | **S**         | Move Down on *some* platforms       |
 | **Left Shift**| Dash                                |
 | **Space**     | Jump                                |
-
-### Controller
-
-| Action                     | Output                              |
-| --------------------------- | ----------------------------------- |
-| **Left Joystick**           | Move Left/Right                     |
-| **Left Joystick Down**      | Move Down on *some* platforms       |
-| **Y**                       | Jump                                |
-| *Dash*                      | *Currently unresponsive*            |
-
 ---
-
 ## Script Editing Software
 
 ### Visual Studio
-
 
 ---
 
