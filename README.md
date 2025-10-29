@@ -4,7 +4,7 @@
 ## General
 **About**
 
-My Game "conquest" you play as a boxis about climbing to the top of the world while many spikes and hard obstacles are in your way. 
+My Game "conquest" is a platformer play as a box whos goal about climbing to the top of the world to get the gold at the end while many challengesawait. 
 
 An in-depth paragraph about your project and overview of use.
 
