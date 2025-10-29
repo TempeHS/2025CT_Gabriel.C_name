@@ -1,13 +1,5 @@
 
 # 2025CT_Gabriel.C_Conquest
-
-## General
-**About**
-
-My Game "conquest" is a platformer play as a box whos goal about climbing to the top of the world to get the gold at the end while many challengesawait. 
-
-An in-depth paragraph about your project and overview of use.
-
 <h1 align="center"> 2025CT_Gabriel.C_Conquest</h1>
 
 <h2 align="center">Table of Contents</h2>
@@ -34,17 +26,19 @@ An in-depth paragraph about your project and overview of use.
 # General Information
 ## About
 <p align="justify">
-My Game "conquest" you play as a box is about climbing to the top of the world while many spikes and hard obstacles are in your way. 
+My Game "conquest" is a platformer play as a box whos goal about climbing to the top of the world to get the gold at the end while many challenges await. The game has features implented like wall jump, platforms, dash feature with particle effects and red spikes that will take you back to the nearest checkpoint. The game also has a title screen and adventurous music to complement gameplay.
+
+An in-depth paragraph about your project and overview of use.
 </p>
 
 ## Objective
 <p align="justify">
-  The objective of the game is to jump platforms, watch out for spikesand climb to the top util you reach the end.
+  The objective of the game is to jump platforms, watch out for spikesand climb to the top util you reach the gold.
 </p>
 
 ## Story
 <p align="justify">
-</p> In this game you play as a box whose kingdom goal is to get to the top of the kingdom and get the pile of gold
+</p> In this game you play as a little box whos in the world of conquest and is facing the daring adventurour get the pile of gold at the peak of the world
 ---
 
 ## User Control Guide
