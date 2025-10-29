@@ -12864,28 +12864,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1072714265}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5f805c74f470b16cf6c144edaae0ecf6842bd285
---- !u!1 &1078484444
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1078484445}
-  - component: {fileID: 1078484447}
-  - component: {fileID: 1078484446}
-  m_Layer: 0
-  m_Name: Plane (17)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
+
+
 --- !u!4 &1078484445
 Transform:
   m_ObjectHideFlags: 0
@@ -12951,11 +12931,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1078484444}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< HEAD
-=======
->>>>>>> parent of 9811eaf (stuff aded)
-=======
->>>>>>> 5f805c74f470b16cf6c144edaae0ecf6842bd285
+
 --- !u!1 &1078484444
 GameObject:
   m_ObjectHideFlags: 0
