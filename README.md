@@ -15,6 +15,7 @@
 - [Asset Showcase](#asset-showcase)
 - [Public Assets Used](#public-assets-used)
 - [Showcase of Works](#showcase-of-works)
+<img width="686" height="369" alt="Screenshot 2025-11-05 at 2 11 00 pm" src="https://github.com/user-attachments/assets/c2bee39c-a088-45ae-bfe2-606b2e4cb80f" />
 
 ---
 
