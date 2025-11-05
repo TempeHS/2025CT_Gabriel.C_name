@@ -43,12 +43,7 @@ https://github.com/user-attachments/assets/cdbf2b21-d6fe-41ff-9789-993083d0e591
 <p align="justify">
 My Game "conquest" is a platformer play as a box whos goal about climbing to the top of the world to get the gold at the end while many challenges await. The game has features implented like wall jump, platforms, dash feature with particle effects and red spikes that will take you back to the nearest checkpoint. The game also has a title screen and adventurous music to complement gameplay.
 
-An in-depth 
-
-
-
-paragraph about your project and overview of use.
-</p>
+It also has a title screen with an adventurous vibe and music that matches the gameplay, making the experience more immersive. Controls are smooth and responsive, and the highe you go the harder it gets meaning it challrs skill more enges the playe. My game is all about improving, learning from mistakes, and mastering  movement as you push to reach the final goal. 
 
 ## Objective
 <p align="justify">
@@ -56,7 +51,7 @@ The objective of the game is to jump across different platforms, avoid dangerous
 
 ## Story
 <p align="justify">
-</p> In this game you play as a little box whos in the world of conquest and is facing the daring adventurour get the pile of gold at the peak of the world
+</p> The game follows a simple story:where the player (you) plays as a little box whos in the world of conquest and is facing the daring adventurour get the pile of gold at the peak of the world
 
 ## Music
 
