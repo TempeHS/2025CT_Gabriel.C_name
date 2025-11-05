@@ -7,17 +7,18 @@
 <h2 align="center">Table of Contents</h2>
 
 - [Quick Demonstration & Gameplay](#quick-demonstration--gameplay)
-- [Overview](#overview)
-- [User Control Guide](#user-control-guide)
-  - [Keyboard and Mouse](#keyboard-and-mouse)
-  - [Controller](#controller)
-- [Script Editing Software](#script-editing-software)
-  - [Main Scripts](#main-scripts)
-  - [ShaderGraphs](#shadergraphs)
+- [Gameplay](#Gameplay)
+- [Map Showcase](#Map-Showcase)
+  - [General Information](#General-Information)
+  - [About](#About)
+- [Objective](#Objective)
+  - [Story](#Story)
+  - [Music](#Music)
+  - [Keyboard and Mouse Controls](#Keyboard-and-Mouse-Controls)
 - [Asset Showcase](#asset-showcase)
 - [Public Assets Used](#public-assets-used)
 - [Showcase of Works](#showcase-of-works)
-
+- [All Tutorials](#All-Tutorials)
 ---
 
 ## Quick Demonstration & Gameplay
@@ -61,7 +62,7 @@ THe game has an catchy audio track in the background on the way to the top of th
 Follow his music here: https://www.youtube.com/@AndrewLambrou
 </p>
 
-## Keyboard and Mouse
+## Keyboard and Mouse Controls
 
 | Action        | Output                              |
 | ------------- | ----------------------------------- |
@@ -115,8 +116,8 @@ Follow his music here: https://www.youtube.com/@AndrewLambrou
 ## All Tutorials
 | Function | Tutorial |
 | ----------- | ----------- |
-| Player Movement | https://www.youtube.com/watch?v=DQY62meLVCk |
-| Parralax | https://www.youtube.com/watch?v=82U4ToJU-28 |
+| Player Movement | https://www.youtube.com/watch?v=K1xZ-rycYY8 |
+| Parralax | https://www.youtube.com/watch?v=ZYZfKbLxoHI |
 | Spike Mechanic | https://www.youtube.com/watch?v=kV9rVinFyAk |
 | Main Menu | https://www.youtube.com/watch?v=kV9rVinFyAk |
 
