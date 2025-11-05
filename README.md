@@ -47,9 +47,9 @@ An in-depth paragraph about your project and overview of use.
 THe game has an catchy audio track in the background on the way to the top of the mountain provided by my cousin Andrew Lambrou.
 
 Follow his music here: https://www.youtube.com/@AndrewLambrou
-
 </p>
-### Keyboard and Mouse
+
+## Keyboard and Mouse
 
 | Action        | Output                              |
 | ------------- | ----------------------------------- |
@@ -58,7 +58,9 @@ Follow his music here: https://www.youtube.com/@AndrewLambrou
 | **S**         | Move Down on *some* platforms       |
 | **Left Shift**| Dash                                |
 | **Space**     | Jump                                |
+
 ---
+
 ## Script Editing Software
 
 ### Visual Studio
