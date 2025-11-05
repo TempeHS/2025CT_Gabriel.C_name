@@ -22,18 +22,18 @@
 
 ## Quick Demonstration & Gameplay
 
+
+
+
+[Gameplay Demo] 
+
+https://github.com/user-attachments/assets/b69e618c-c9dd-4040-93a5-4cb3ee46b0af
+
+
+[Map Showcase] 
+
 https://github.com/user-attachments/assets/cdbf2b21-d6fe-41ff-9789-993083d0e591
 
-
-
-[Gameplay Demo] (https://github.com/user-attachments/assets/7531bf28-5b01-4547-a862-516ad05efd08)
-https://github.com/user-attachments/assets/ce2e1845-f976-428a-9ab2-3f94757ef74f
-
-
-[Map Showcase] (https://github.com/user-attachments/assets/9d9c2947-9280-4a81-8fc7-3fdbc28e8926)
-
-
-https://github.com/user-attachments/assets/9d9c2947-9280-4a81-8fc7-3fdbc28e8926
 
 
 
