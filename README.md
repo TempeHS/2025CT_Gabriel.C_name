@@ -62,7 +62,7 @@ My Game Conquest is inspired from games such as **Getting Over It** and ** Only 
 ## Music
 
 <p align="justify">
-THe game has an catchy audio track in the background on the way to the top of the mountain provided by my cousin Andrew Lambrou.
+The games' catchy audio track in the background to complement your journey on the way to the top of the mountain is provided by my cousin: Andrew Lambrou.
 
 Follow his music here: https://www.youtube.com/@AndrewLambrou
 </p>
