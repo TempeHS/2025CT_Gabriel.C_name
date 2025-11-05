@@ -110,12 +110,15 @@ Follow his music here: https://www.youtube.com/@AndrewLambrou
 <img width="660" height="314" alt="Screenshot 2025-11-05 at 12 40 12 pm" src="https://github.com/user-attachments/assets/d931cfab-03dd-4b00-b7f2-3453e422038a" />
 <img width="617" height="333" alt="Screenshot 2025-11-05 at 7 51 56 pm" src="https://github.com/user-attachments/assets/54bd750f-5c3e-416f-9be3-ff86268fd1f5" />
 
-**All Tutorials**
+
+
+## All Tutorials
 | Function | Tutorial |
 | ----------- | ----------- |
-| Player Movement | https://www.youtube.com/watch?v=DQY62meLVCk |
-| Player Movement Animation | https://www.youtube.com/watch?v=82U4ToJU-28 |
-| Camera Following & Boundries | https://www.youtube.com/watch?v=kV9rVinFyAk |
+| Player Movement | https://www.youtube.com/watch?v=DQY62meLVCk](https://www.youtube.com/watch?v=K1xZ-rycYY8 |
+| Parralax | [https://www.youtube.com/watch?v=82U4ToJU-28 ](https://www.youtube.com/watch?v=ZYZfKbLxoHI|
+| Spike Mechanic | https://www.youtube.com/watch?v=kV9rVinFyAk |
+| Main Menu | https://www.youtube.com/watch?v=kV9rVinFyAk |
 
 
 
