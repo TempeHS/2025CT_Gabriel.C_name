@@ -22,10 +22,20 @@
 
 ## Quick Demonstration & Gameplay
 
-https://github.com/user-attachments/assets/7531bf28-5b01-4547-a862-516ad05efd08
+https://github.com/user-attachments/assets/cdbf2b21-d6fe-41ff-9789-993083d0e591
 
 
-[Gameplay Demo](https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b)
+
+[Gameplay Demo] (https://github.com/user-attachments/assets/7531bf28-5b01-4547-a862-516ad05efd08)
+https://github.com/user-attachments/assets/ce2e1845-f976-428a-9ab2-3f94757ef74f
+
+
+[Map Showcase] (https://github.com/user-attachments/assets/9d9c2947-9280-4a81-8fc7-3fdbc28e8926)
+
+
+https://github.com/user-attachments/assets/9d9c2947-9280-4a81-8fc7-3fdbc28e8926
+
+
 
 ---
                     
@@ -34,7 +44,11 @@ https://github.com/user-attachments/assets/7531bf28-5b01-4547-a862-516ad05efd08
 <p align="justify">
 My Game "conquest" is a platformer play as a box whos goal about climbing to the top of the world to get the gold at the end while many challenges await. The game has features implented like wall jump, platforms, dash feature with particle effects and red spikes that will take you back to the nearest checkpoint. The game also has a title screen and adventurous music to complement gameplay.
 
-An in-depth paragraph about your project and overview of use.
+An in-depth 
+
+
+
+paragraph about your project and overview of use.
 </p>
 
 ## Objective
