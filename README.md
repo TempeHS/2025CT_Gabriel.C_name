@@ -40,10 +40,15 @@ An in-depth paragraph about your project and overview of use.
 ## Story
 <p align="justify">
 </p> In this game you play as a little box whos in the world of conquest and is facing the daring adventurour get the pile of gold at the peak of the world
----
 
-## User Control Guide
+## Music
 
+<p align="justify">
+THe game has an catchy audio track in the background on the way to the top of the mountain provided by my cousin Andrew Lambrou.
+
+Follow his music here: https://www.youtube.com/@AndrewLambrou
+
+</p>
 ### Keyboard and Mouse
 
 | Action        | Output                              |
@@ -88,7 +93,8 @@ An in-depth paragraph about your project and overview of use.
 
 ## Showcase of Works
 <img width="660" height="314" alt="Screenshot 2025-11-05 at 12 39 36 pm" src="https://github.com/user-attachments/assets/b9c4b0de-712f-4f56-95f7-a8deddd4d94d" />
-<img width="660" height="314" alt="Screenshot 2025-11-05 at 12 37 13 pm" src="https://github.com/user-attachments/assets/fa36df65-263f-4353-9542-6eb47e6fa1c5" />
+<img width="660" height="314" alt="Screenshot 2025-11-05 at 12 40 12 pm" src="https://github.com/user-attachments/assets/d931cfab-03dd-4b00-b7f2-3453e422038a" />
+<img width="617" height="333" alt="Screenshot 2025-11-05 at 7 51 56 pm" src="https://github.com/user-attachments/assets/54bd750f-5c3e-416f-9be3-ff86268fd1f5" />
 
 
 
