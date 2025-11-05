@@ -6,7 +6,7 @@
 
 <h2 align="center">Table of Contents</h2>
 
-- [Quick Demonstration & Gameplay](#quick-demonstration--gameplhttps://github.com/TempeHS/2025CT_Gabriel.C_name/blob/main/README.mday)
+- [Quick Demonstration & Gameplay](#quick-demonstration--gameplay)
 - [Overview](#overview)
 - [User Control Guide](#user-control-guide)
   - [Keyboard and Mouse](#keyboard-and-mouse)
