@@ -84,7 +84,7 @@ Excact Song used in My Game: https://www.youtube.com/watch?v=wMvVW4jRFZ8&list=RD
 ## Script Editing Software
 
 ### Visual Studio
-<img width="978" height="639" alt="image" src="https://github.com/user-attachments/assets/e3e2cbf4-d6f8-4985-8c59-2c7f30fd6cc6" />
+<img width="647" height="302" alt="Screenshot 2025-11-05 at 9 08 49 pm" src="https://github.com/user-attachments/assets/9a25b3de-a1fa-4c07-af5e-853792a81701" />
 
 ---
 
