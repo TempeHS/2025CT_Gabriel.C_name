@@ -12,6 +12,7 @@
 - [General Information](#General-Information)
   - [About](#About)
   - [Objective](#Objective)
+  - [Inspirations](#Inspirations) 
   - [Story](#Story)
   - [Music](#Music)
   - [Keyboard and Mouse Controls](#Keyboard-and-Mouse-Controls)
@@ -42,13 +43,17 @@ https://github.com/user-attachments/assets/cdbf2b21-d6fe-41ff-9789-993083d0e591
 # General Information
 ## About
 <p align="justify">
-My Game "conquest" is a platformer play as a box whos goal about climbing to the top of the world to get the gold at the end while many challenges await. The game has features implented like wall jump, platforms, dash feature with particle effects and red spikes that will take you back to the nearest checkpoint. The game also has a title screen and adventurous music to complement gameplay.
+My Game Conquest is a platformer where you play as a box whos goal about climbing to the top of the world to get the gold at the end while many challenges await. The game has many features implented like wall jump, platforms, a dash feature with particle effects and red spikes that will take you back to the start of the game. 
 
-It also has a title screen with an adventurous vibe and music that matches the gameplay, making the experience more immersive. Controls are smooth and responsive, and the highe you go the harder it gets meaning it challrs skill more enges the playe. My game is all about improving, learning from mistakes, and mastering  movement as you push to reach the final goal. 
+It also has a title screen with an adventurous vibe and music that matches the intense gameplay, making the experience more immersive. Controls are smooth and responsive, and the higher you go the harder it gets where there are less platforms and more spikes meaning it heavily challenges the players skill. My game is all about improving, learning from mistakes, and mastering  movement as you push to reach the final goal. 
 
 ## Objective
 <p align="justify">
 The objective of the game is to jump across different platforms, avoid dangerous spikes, and climb all the way to the top until you reach the gold. The game tests your timing, focus, and patience as each level gets harder the higher you go. Quick reflexes and smart moves will help you prevail with one wrong jump means you will fall down to a lower platform or even start all over again.</p>
+
+## Inspirations
+<p align="justify">
+My Game Conquest is inspired from games such as **Getting Over It** and ** Only Up! ** where the player has to climb a set of obstacles to reach the top and one wrong mistake can bring you right back to the start. I love these sorts of punishing games as it makes sure the players are careful of there moves and when you finally beat it it's very rewarding.
 
 ## Story
 <p align="justify">
