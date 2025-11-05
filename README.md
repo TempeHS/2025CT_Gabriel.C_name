@@ -76,7 +76,7 @@ An in-depth paragraph about your project and overview of use.
 
 ## Asset Showcase
 
-- [View All Assets](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/tree/main/My%20project/Assets/Sprite)
+- [View All Assets](https://github.com/TempeHS/2025CT_Gabriel.C_name/tree/main/Assets)
 
 ---
 
@@ -87,11 +87,8 @@ An in-depth paragraph about your project and overview of use.
 ---
 
 ## Showcase of Works
-
-![Post Processing](https://github.com/user-attachments/assets/6a2f9842-49d7-496c-88e8-5a3adddda8da)
-![Smoke & Sparks](https://github.com/user-attachments/assets/262434d6-8281-4a63-9214-79de870f2ce6)
-![Fire Shader](https://github.com/user-attachments/assets/b67c547f-0fb0-484e-95a5-b6635df883c9)
-![Fog VFX](https://github.com/user-attachments/assets/fb316b80-9147-4a8a-bfb5-8f8b37d856ff)
+<img width="660" height="314" alt="Screenshot 2025-11-05 at 12 39 36 pm" src="https://github.com/user-attachments/assets/b9c4b0de-712f-4f56-95f7-a8deddd4d94d" />
+<img width="660" height="314" alt="Screenshot 2025-11-05 at 12 37 13 pm" src="https://github.com/user-attachments/assets/fa36df65-263f-4353-9542-6eb47e6fa1c5" />
 
 
 
