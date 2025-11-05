@@ -70,7 +70,7 @@ An in-depth paragraph about your project and overview of use.
 - [Main Story](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/MainStory.cs)
 - [Monster Damage](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/MonsterDamage.cs)
 - [Monster Stomp](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/MonsterStomp.cs)
-- [Player Health](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/PlayerHealth.cs)
+- [Death Script](https://github.com/TempeHS/2025CT_Gabriel.C_name/blob/main/Assets/Scripts/DeathScript.cs)
 - [Player Movement (Dash, Jump, Walljump, Wallslide)](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/PlayerMovement.cs)
 - [Player One-Way Platform](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/PlayerOneWayPlatform.cs)
 - [Portal](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/Portal.cs)
