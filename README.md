@@ -115,8 +115,8 @@ Follow his music here: https://www.youtube.com/@AndrewLambrou
 ## All Tutorials
 | Function | Tutorial |
 | ----------- | ----------- |
-| Player Movement | https://www.youtube.com/watch?v=DQY62meLVCk](https://www.youtube.com/watch?v=K1xZ-rycYY8 |
-| Parralax | [https://www.youtube.com/watch?v=82U4ToJU-28 ](https://www.youtube.com/watch?v=ZYZfKbLxoHI|
+| Player Movement | https://www.youtube.com/watch?v=DQY62meLVCk |
+| Parralax | https://www.youtube.com/watch?v=82U4ToJU-28 |
 | Spike Mechanic | https://www.youtube.com/watch?v=kV9rVinFyAk |
 | Main Menu | https://www.youtube.com/watch?v=kV9rVinFyAk |
 
