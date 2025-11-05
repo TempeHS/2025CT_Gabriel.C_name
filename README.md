@@ -21,6 +21,10 @@
 ---
 
 ## Quick Demonstration & Gameplay
+
+https://github.com/user-attachments/assets/7531bf28-5b01-4547-a862-516ad05efd08
+
+
 [Gameplay Demo](https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b)
 
 ---
@@ -35,8 +39,7 @@ An in-depth paragraph about your project and overview of use.
 
 ## Objective
 <p align="justify">
-  The objective of the game is to jump platforms, watch out for spikesand climb to the top util you reach the gold.
-</p>
+The objective of the game is to jump across different platforms, avoid dangerous spikes, and climb all the way to the top until you reach the gold. The game tests your timing, focus, and patience as each level gets harder the higher you go. Quick reflexes and smart moves will help you prevail with one wrong jump means you will fall down to a lower platform or even start all over again.</p>
 
 ## Story
 <p align="justify">
@@ -99,7 +102,12 @@ Follow his music here: https://www.youtube.com/@AndrewLambrou
 <img width="660" height="314" alt="Screenshot 2025-11-05 at 12 40 12 pm" src="https://github.com/user-attachments/assets/d931cfab-03dd-4b00-b7f2-3453e422038a" />
 <img width="617" height="333" alt="Screenshot 2025-11-05 at 7 51 56 pm" src="https://github.com/user-attachments/assets/54bd750f-5c3e-416f-9be3-ff86268fd1f5" />
 
-
+**All Tutorials**
+| Function | Tutorial |
+| ----------- | ----------- |
+| Player Movement | https://www.youtube.com/watch?v=DQY62meLVCk |
+| Player Movement Animation | https://www.youtube.com/watch?v=82U4ToJU-28 |
+| Camera Following & Boundries | https://www.youtube.com/watch?v=kV9rVinFyAk |
 
 
 
