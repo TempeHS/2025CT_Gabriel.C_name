@@ -65,17 +65,12 @@ An in-depth paragraph about your project and overview of use.
 - [Camera Controller](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/Cameracontroller.cs)
 - [Camera Zoom](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/CameraZoom.cs)
 - [Enemy Controller](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/EnemyController.cs)
-- [Falling Platform](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/FallingPlatform.cs)
+- [Player Movement](https://github.com/TempeHS/2025CT_Gabriel.C_name/blob/main/Assets/Scripts/PlayerMovement.cs)
 - [Main Menu](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/MainStory.cs)
-- [Main Story](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/MainStory.cs)
-- [Monster Damage](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/MonsterDamage.cs)
-- [Monster Stomp](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/MonsterStomp.cs)
+- [Parralax](https://github.com/TempeHS/2025CT_Gabriel.C_name/blob/main/Assets/Scripts/Parralax.cs)
+- [Music](https://github.com/TempeHS/2025CT_Gabriel.C_name/blob/main/Assets/Scripts/Music.cs)
+- [Main Menu](https://github.com/TempeHS/2025CT_Gabriel.C_name/blob/main/Assets/Scripts/MainMenu.cs)
 - [Death Script](https://github.com/TempeHS/2025CT_Gabriel.C_name/blob/main/Assets/Scripts/DeathScript.cs)
-- [Player Movement (Dash, Jump, Walljump, Wallslide)](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/PlayerMovement.cs)
-- [Player One-Way Platform](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/PlayerOneWayPlatform.cs)
-- [Portal](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/Portal.cs)
-- [Respawn](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/RespawnScript.cs)
-
 ---
 
 
