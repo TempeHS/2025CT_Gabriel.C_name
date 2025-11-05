@@ -94,8 +94,7 @@ An in-depth paragraph about your project and overview of use.
 
 ## Public Assets Used
 
-- [BGM](https://assetstore.unity.com/packages/audio/music/absolutely-free-music-4883)
-- [ShaderGraph Sprites](https://assetstore.unity.com/packages/essentials/tutorial-projects/happy-harvest-2d-sample-project-259218)
+- [Free 2D Cartoon Parallax Background][https://assetstore.unity.com/packages/essentials/tutorial-projects/happy-harvest-2d-sample-project-259218)](https://assetstore.unity.com/packages/2d/environments/free-2d-cartoon-parallax-background-205812)
 
 ---
 
