@@ -53,7 +53,7 @@ The objective of the game is to jump across different platforms, avoid dangerous
 
 ## Inspirations
 <p align="justify">
-My Game Conquest is inspired from games such as **Getting Over It** and ** Only Up! ** where the player has to climb a set of obstacles to reach the top and one wrong mistake can bring you right back to the start. I love these sorts of punishing games as it makes sure the players are careful of there moves and when you finally beat it it's very rewarding.
+My Game Conquest is inspired from games such as Getting Over It and  Only Up!  where the player has to climb a set of obstacles to reach the top and one wrong mistake can bring you right back to the start. I love these sorts of punishing games as it makes sure the players are careful of there moves and when you finally beat it it's very rewarding.
 
 ## Story
 <p align="justify">
