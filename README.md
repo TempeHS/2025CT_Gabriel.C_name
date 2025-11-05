@@ -57,7 +57,7 @@ My Game Conquest is inspired from games such as **Getting Over It** and ** Only 
 
 ## Story
 <p align="justify">
-</p> The game follows a simple story:where the player (you) plays as a little box whos in the world of conquest and is facing the daring adventurour get the pile of gold at the peak of the world
+</p> The game follows a simple story:where the player (you) wakes up in a big world called conquest. You will plays as a little box whos is is facing the daring adventure with only one goal in mind: make it to the top and steal take the shiny pile of gold. 
 
 ## Music
 
