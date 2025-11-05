@@ -77,14 +77,6 @@ An in-depth paragraph about your project and overview of use.
 
 ---
 
-### ShaderGraphs
-
-- [Fire Shader](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/FireShader.shadergraph)
-- [Lantern Shader](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/LanternTrail.shadergraph)
-- [Rolling Fog Shader](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/RollingFog.shadergraph)
-- [Trail Shader](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/Trail.shadergraph)
-
----
 
 ## Asset Showcase
 
