@@ -20,6 +20,7 @@
 - [Public Assets Used](#public-assets-used)
 - [Showcase of Works](#showcase-of-works)
 - [All Tutorials](#All-Tutorials-Used)
+- [Authors](#Authors)
 ---
 
 ## Gameplay & Map Showcase
@@ -147,6 +148,9 @@ Visual Studio is a program that lets you write and edit code for your games. Itâ
 | Dash Feature | https://www.youtube.com/watch?v=2kFGmuPHiA0 |
 | Music | https://www.youtube.com/watch?v=N8whM1GjH4w |
 
+### Authors
+
+:computer: Developer - Gabriel Chitos Djapouras
 
 
 
