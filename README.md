@@ -62,7 +62,15 @@ My Game Conquest is inspired from games such as Getting Over It and  Only Up!  w
 ## Music
 
 <p align="justify">
-The games' catchy audio track in the background to complement your journey on the way to the top of the mountain is provided by my cousin: Andrew Lambrou.
+To add music into my game, I created a GameObject in Unity called MusicHandler. I then added an Audio Source component to it. In the Audio Source, I put my music file in the audio clip slot. I also turned on Play On Awake so the song starts as soon as the start button is pressed int he main menu, and I ticked Loop so the music keeps repeating instead of stopping after one play.
+<img width="338" height="618" alt="Screenshot 2025-11-06 at 11 50 54 am" src="https://github.com/user-attachments/assets/b6888fb7-1487-42c4-99a8-a0c11f229f04" />
+
+I then made a simple script called NewBehaviourScript, which I attached to the same object. Inside the script, I used the Awake() method and wrote DontDestroyOnLoad(this);. This makes sure the music keeps playing even when I switch scenes, instead of restarting or stopping.
+<img width="484" height="248" alt="Screenshot 2025-11-06 at 11 49 59 am" src="https://github.com/user-attachments/assets/a9cbce10-0336-4ffd-8e18-f4ede6c11587" />
+
+Basically, this setup means the background music starts when the game starts, loops forever, and doesn’t stop when I move to different levels or menus.
+
+The games' catchy audio track in the background is provided by my cousin: Andrew Lambrou.
 
 Follow his music here: https://www.youtube.com/@AndrewLambrou
 </p>
@@ -122,7 +130,7 @@ Excact Song used in My Game: https://www.youtube.com/watch?v=wMvVW4jRFZ8&list=RD
 
 
 ## All Tutorials Used
-| Function | Tutorial |
+| Function | Tutorial Link |
 | ----------- | ----------- |
 | Player Movement | https://www.youtube.com/watch?v=K1xZ-rycYY8 |
 | Parralax | https://www.youtube.com/watch?v=ZYZfKbLxoHI |
