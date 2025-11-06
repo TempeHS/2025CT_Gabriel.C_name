@@ -62,9 +62,8 @@ My Game Conquest is inspired from games such as Getting Over It and  Only Up!  w
 ## Music
 
 <p align="justify">
-To add music into my game, I created a GameObject in Unity called MusicHandler. I then added an Audio Source component to it. In the Audio Source, I put my music file in the audio clip slot. I also turned on Play On Awake so the song starts as soon as the start button is pressed int he main menu, and I ticked Loop so the music keeps repeating instead of stopping after one play.
-
-
+To add music into my game, I created a GameObject in Unity called MusicHandler. I then added an Audio Source component to it. In the Audio Source, I put my music file in the audio clip slot. I also turned on Play On Awake so the song starts as soon as the start button is pressed in the main menu, and I ticked Loop so the music keeps repeating instead of stopping after one play.
+</p>
 <img width="338" height="618" alt="Screenshot 2025-11-06 at 11 50 54 am" src="https://github.com/user-attachments/assets/b6888fb7-1487-42c4-99a8-a0c11f229f04" />
 </p>
 
