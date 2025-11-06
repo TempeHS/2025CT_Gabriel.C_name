@@ -58,7 +58,7 @@ My Game Conquest is inspired from games such as Getting Over It and  Only Up!  w
 
 ## Story
 <p align="justify">
-</p> The game follows a simple story:where the player (you) wakes up in a big world called conquest. You will plays as a little box whos is is facing the daring adventure with only one goal in mind: make it to the top and steal take the shiny pile of gold. 
+</p> The game follows a simple story:where the player (you) wakes up in a big world called conquest. You will plays as a little box whos is is facing the daring adventure with only one goal in mind: make it to the top and steal take the shiny pile of gold. The backgrounds change as you get higher, the 4 backgrounds are the Grasslands, Space, The Desert and the Mountains 
 
 ## Music
 
@@ -83,6 +83,7 @@ Follow his music here: https://www.youtube.com/@AndrewLambrou
 Excact Song used in My Game: https://www.youtube.com/watch?v=wMvVW4jRFZ8&list=RDwMvVW4jRFZ8&start_radio=1
 </p>
 
+
 ## Keyboard and Mouse Controls
 
 | Action        | Output                              |
@@ -103,6 +104,15 @@ Visual Studio is a program that lets you write and edit code for your games. It�
 <img width="647" height="302" alt="Screenshot 2025-11-05 at 9 08 49 pm" src="https://github.com/user-attachments/assets/9a25b3de-a1fa-4c07-af5e-853792a81701" />
 
 ---
+## How I Made Platforms
+To make my platforms for my platformer, I used a simple Square sprite and adjusted its Transform values to change the size and position.I changed the size of each platform to be wider and bigger so it would be easier for the players to use. Then, I added a Box Collider 2D so the player’s character could walk and jump on top of it which gives the platform collision and makes it solid.
+
+The Sprite Renderer lets me control how the platform looks, including the color and layer order. I kept the Draw Mode as Simple and used the Default material since I only needed basic visuals for my game.
+
+<img width="321" height="686" alt="Screenshot 2025-11-06 at 2 40 45 pm" src="https://github.com/user-attachments/assets/aff9908a-4ab5-415e-a969-92547a627625" />
+
+My PlayerMovement script interacts with the platform using Unity’s ground check system. The player uses a small groundCheck object that detects when it’s touching something on the Ground layer which includes my platforms. When the player touches the ground, it can jump again.
+
 
 ### Main Scripts
 
@@ -148,6 +158,7 @@ Visual Studio is a program that lets you write and edit code for your games. It�
 | Wall Jump | https://www.youtube.com/watch?v=sfDnN-Im7rY |
 | Dash Feature | https://www.youtube.com/watch?v=2kFGmuPHiA0 |
 | Music | https://www.youtube.com/watch?v=N8whM1GjH4w |
+
 
 ### Authors
 
