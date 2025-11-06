@@ -109,7 +109,7 @@ Visual Studio is a program that lets you write and edit code for your games. It�
 <img width="647" height="302" alt="Screenshot 2025-11-05 at 9 08 49 pm" src="https://github.com/user-attachments/assets/9a25b3de-a1fa-4c07-af5e-853792a81701" />
 
 ---
-## How I Made Platforms
+# How I Made Platforms
 To make my platforms for my platformer, I used a simple Square sprite and adjusted its Transform values to change the size and position.I changed the size of each platform to be wider and bigger so it would be easier for the players to use. Then, I added a Box Collider 2D so the player’s character could walk and jump on top of it which gives the platform collision and makes it solid.
 
 The Sprite Renderer lets me control how the platform looks, including the color and layer order. I kept the Draw Mode as Simple and used the Default material since I only needed basic visuals for my game.
@@ -117,7 +117,7 @@ The Sprite Renderer lets me control how the platform looks, including the color 
 <img width="321" height="686" alt="Screenshot 2025-11-06 at 2 40 45 pm" src="https://github.com/user-attachments/assets/aff9908a-4ab5-415e-a969-92547a627625" />
 
 My PlayerMovement script interacts with the platform using Unity’s ground check system. The player uses a small groundCheck object that detects when it’s touching something on the Ground layer which includes my platforms. When the player touches the ground, it can jump again.
-### Wall Jump
+## Wall Jump
 The wall jump works by detecting when the player’s collider touches a wall collider using Physics2D.OverlapCapsule. When this happens and the player presses jump, the script directly changes the Rigidbody2D’s velocity, giving it an instant push away from the wall and a boost upward.
 
 Because it uses Unity’s physics system, gravity still affects the player during and after the wall jump, which makes the movement feel natural. The wall colliders stop the player from moving through them, while the velocity change lets the player bounce off instead.
@@ -129,7 +129,7 @@ When the player dashes, the coroutine Dash() starts. Inside it, I set tr.emittin
 <img width="339" height="692" alt="Screenshot 2025-11-06 at 3 00 31 pm" src="https://github.com/user-attachments/assets/88f337e8-cf95-462c-962b-ea4162398a7f" />
 </p>
 
-### Main Scripts
+## Main Scripts
 
 - [Camera Controller](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/Cameracontroller.cs)
 - [Camera Zoom](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/CameraZoom.cs)
