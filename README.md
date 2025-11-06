@@ -110,7 +110,7 @@ Visual Studio is a program that lets you write and edit code for your games. It�
 
 ---
 # How I Made Platforms
-To make my platforms for my platformer, I used a simple Square sprite and adjusted its transform values to change the size and position. I changed the size of each platform to be wider and bigger so it would be easier for the players to use. Then I added a Box Collider 2D so the player’s character could walk and jump on top of it which gives the platform collision and makes it solid.
+To make my platforms for my platformer, I used a simple square sprite and adjusted its transform values to change the size and position. I changed the size of each platform to be wider and bigger so it would be easier for the players to use. Then I added a Box Collider 2D so the player’s character could walk and jump on top of it which gives the platform collision and makes it solid.
 
 The sprite renderer lets me control how the platform looks, including the color and layer order. I kept the draw mode as simple and used the default material since I only needed basic visuals for my game.
 
@@ -122,9 +122,9 @@ The wall jump works by detecting when the player’s collider touches a wall col
 
 Because it uses Unity’s physics system, gravity still affects the player during and after the wall jump, which makes the movement feel natural. The wall colliders stop the player from moving through them, while the velocity change lets the player bounce off instead.
 ## Dash Particles
-To upgrade the dash feature, I used a Trail Renderer component attached to the player. This creates a visual trail that follows behind when the player dashes. In my script, I referenced it using [SerialField] private TrailRenderer tr; so I could control it through code.
+To upgrade the dash feature, I used a Trail Renderer component attached to the player. This creates a visual trail that follows behind when the player dashes. I referenced it in my script using [SerialField] private TrailRenderer tr; so I can control it through code.
 
-When the player dashes, the coroutine Dash() starts. Inside it, I set tr.emitting = true, which makes the trail appear while the player’s Rigidbody2D moves quickly in the dash direction. After the dash finishes, I turn it off with tr.emitting = false so the trail only shows for a limited time.
+When the player dashes the coroutine Dash() starts. Inside it, I set tr.emitting = true, which makes the trail appear while the player’s Rigidbody2D moves quickly in the dash direction. After the dash finishes, I turn it off with tr.emitting = false so the trail only shows for a limited time.
 </p>
 <img width="339" height="692" alt="Screenshot 2025-11-06 at 3 00 31 pm" src="https://github.com/user-attachments/assets/88f337e8-cf95-462c-962b-ea4162398a7f" />
 </p>
