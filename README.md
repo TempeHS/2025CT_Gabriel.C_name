@@ -19,7 +19,7 @@
 - [Asset Showcase](#asset-showcase)
 - [Public Assets Used](#public-assets-used)
 - [Showcase of Works](#showcase-of-works)
-- [All Tutorials](#All-Tutorials)
+- [All Tutorials](#All-Tutorials-Used)
 ---
 
 ## Quick Demonstration & Gameplay
@@ -121,7 +121,7 @@ Excact Song used in My Game: https://www.youtube.com/watch?v=wMvVW4jRFZ8&list=RD
 
 
 
-## All Tutorials
+## All Tutorials Used
 | Function | Tutorial |
 | ----------- | ----------- |
 | Player Movement | https://www.youtube.com/watch?v=K1xZ-rycYY8 |
