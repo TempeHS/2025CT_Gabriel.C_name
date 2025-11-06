@@ -123,6 +123,7 @@ When the player dashes, the coroutine Dash() starts. Inside it, I set tr.emittin
 </p>
 <img width="339" height="692" alt="Screenshot 2025-11-06 at 3 00 31 pm" src="https://github.com/user-attachments/assets/88f337e8-cf95-462c-962b-ea4162398a7f" />
 </p>
+
 ### Main Scripts
 
 - [Camera Controller](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/Cameracontroller.cs)
