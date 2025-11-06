@@ -16,6 +16,11 @@
   - [Story](#Story)
   - [Music](#Music)
   - [Keyboard and Mouse Controls](#Keyboard-and-Mouse-Controls)
+- [Script Editing Software](#Script-Editing-Software)
+- [How I made Platforms](#How-I-Made-Platforms)
+- [Wall Jump](#Wall-jump)
+- [Dash Particles](#Dash-Particles)
+- [Main Scripts](#Main-Scripts)
 - [Asset Showcase](#asset-showcase)
 - [Public Assets Used](#public-assets-used)
 - [Showcase of Works](#showcase-of-works)
@@ -116,7 +121,7 @@ My PlayerMovement script interacts with the platform using Unity’s ground chec
 The wall jump works by detecting when the player’s collider touches a wall collider using Physics2D.OverlapCapsule. When this happens and the player presses jump, the script directly changes the Rigidbody2D’s velocity, giving it an instant push away from the wall and a boost upward.
 
 Because it uses Unity’s physics system, gravity still affects the player during and after the wall jump, which makes the movement feel natural. The wall colliders stop the player from moving through them, while the velocity change lets the player bounce off instead.
-## How I implemented a Dash Particle
+## Dash Particles
 To upgrade the dash feature, I used a Trail Renderer component attached to the player. This creates a visual trail that follows behind when the player dashes. In my script, I referenced it using [SerialField] private TrailRenderer tr; so I could control it through code.
 
 When the player dashes, the coroutine Dash() starts. Inside it, I set tr.emitting = true, which makes the trail appear while the player’s Rigidbody2D moves quickly in the dash direction. After the dash finishes, I turn it off with tr.emitting = false so the trail only shows during that burst of speed.
