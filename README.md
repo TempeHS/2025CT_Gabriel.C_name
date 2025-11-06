@@ -98,6 +98,7 @@ Excact Song used in My Game: https://www.youtube.com/watch?v=wMvVW4jRFZ8&list=RD
 
 ### Visual Studio
 Visual Studio is a program that lets you write and edit code for your games. It’s like the brain behind Unity, where you type all the C# scripts that control what happens in your game like how a player moves, how enemies act, or when music plays.
+</p>
 <img width="647" height="302" alt="Screenshot 2025-11-05 at 9 08 49 pm" src="https://github.com/user-attachments/assets/9a25b3de-a1fa-4c07-af5e-853792a81701" />
 
 ---
