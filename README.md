@@ -117,7 +117,7 @@ The wall jump works by detecting when the player’s collider touches a wall col
 
 Because it uses Unity’s physics system, gravity still affects the player during and after the wall jump, which makes the movement feel natural. The wall colliders stop the player from moving through them, while the velocity change lets the player bounce off instead.
 ## How I implemented a Dash Particle
-To make the dash feel cool, I used a Trail Renderer component attached to the player. This creates a visual trail that follows behind when the player dashes. In my script, I referenced it using [SerialField] private TrailRenderer tr; so I could control it through code.
+To upgrade the dash feature, I used a Trail Renderer component attached to the player. This creates a visual trail that follows behind when the player dashes. In my script, I referenced it using [SerialField] private TrailRenderer tr; so I could control it through code.
 
 When the player dashes, the coroutine Dash() starts. Inside it, I set tr.emitting = true, which makes the trail appear while the player’s Rigidbody2D moves quickly in the dash direction. After the dash finishes, I turn it off with tr.emitting = false so the trail only shows during that burst of speed.
 
