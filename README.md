@@ -124,7 +124,7 @@ Because it uses Unity’s physics system, gravity still affects the player durin
 ## Dash Particles
 To upgrade the dash feature, I used a Trail Renderer component attached to the player. This creates a visual trail that follows behind when the player dashes. I referenced it in my script using [SerialField] private TrailRenderer tr; so I can control it through code.
 
-When the player dashes the coroutine Dash() starts. Inside it, I set tr.emitting = true, which makes the trail appear while the player’s Rigidbody2D moves quickly in the dash direction. After the dash finishes, I turn it off with tr.emitting = false so the trail only shows for a limited time.
+When the player dashes the coroutine Dash() starts. Inside it, I set tr.emitting = true, which makes the trail appear while the player’s Rigidbody2D moves quickly in the dash direction. After the dash finishes, I turn it off with tr.emitting = false so the trail only shows for a limited time. The time is set to 0.5 seconds because thats approximately how long the dash lasts.
 </p>
 <img width="339" height="692" alt="Screenshot 2025-11-06 at 3 00 31 pm" src="https://github.com/user-attachments/assets/88f337e8-cf95-462c-962b-ea4162398a7f" />
 </p>
