@@ -112,7 +112,7 @@ Visual Studio is a program that lets you write and edit code for your games. It�
 # How I Made Platforms
 To make my platforms for my platformer, I used a simple square sprite and adjusted its transform values to change the size and position. I changed the size of each platform to be wider and bigger so it would be easier for the players to use. Then I added a Box Collider 2D so the player’s character could walk and jump on top of it which gives the platform collision and makes it solid.
 
-The sprite renderer lets me control how the platform looks, including the color and layer order. I kept the draw mode as simple and used the default material since I only needed basic visuals for my game.
+The sprite renderer lets me control how the platform looks, including the color and layer order. I kept the draw mode as simple and used the default material since I only used basic visuals for my game
 
 <img width="321" height="686" alt="Screenshot 2025-11-06 at 2 40 45 pm" src="https://github.com/user-attachments/assets/aff9908a-4ab5-415e-a969-92547a627625" />
 
