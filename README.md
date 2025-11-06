@@ -66,11 +66,13 @@ To add music into my game, I created a GameObject in Unity called MusicHandler. 
 
 
 <img width="338" height="618" alt="Screenshot 2025-11-06 at 11 50 54 am" src="https://github.com/user-attachments/assets/b6888fb7-1487-42c4-99a8-a0c11f229f04" />
+</p>
 
 I then made a simple script called NewBehaviourScript, which I attached to the same object. Inside the script, I used the Awake() method and wrote DontDestroyOnLoad(this);. This makes sure the music keeps playing even when I switch scenes, instead of restarting or stopping.
 
 
 <img width="484" height="248" alt="Screenshot 2025-11-06 at 11 49 59 am" src="https://github.com/user-attachments/assets/a9cbce10-0336-4ffd-8e18-f4ede6c11587" />
+</p>
 
 Basically, this setup means the background music starts when the game starts, loops forever, and doesn’t stop when I move to different levels or menus.
 
