@@ -112,7 +112,16 @@ The Sprite Renderer lets me control how the platform looks, including the color 
 <img width="321" height="686" alt="Screenshot 2025-11-06 at 2 40 45 pm" src="https://github.com/user-attachments/assets/aff9908a-4ab5-415e-a969-92547a627625" />
 
 My PlayerMovement script interacts with the platform using Unity’s ground check system. The player uses a small groundCheck object that detects when it’s touching something on the Ground layer which includes my platforms. When the player touches the ground, it can jump again.
+### Wall Jump
+The wall jump works by detecting when the player’s collider touches a wall collider using Physics2D.OverlapCapsule. When this happens and the player presses jump, the script directly changes the Rigidbody2D’s velocity, giving it an instant push away from the wall and a boost upward.
 
+Because it uses Unity’s physics system, gravity still affects the player during and after the wall jump, which makes the movement feel natural. The wall colliders stop the player from moving through them, while the velocity change lets the player bounce off instead.
+## How I implemented a Dash Particle
+To make the dash feel cool, I used a Trail Renderer component attached to the player. This creates a visual trail that follows behind when the player dashes. In my script, I referenced it using [SerialField] private TrailRenderer tr; so I could control it through code.
+
+When the player dashes, the coroutine Dash() starts. Inside it, I set tr.emitting = true, which makes the trail appear while the player’s Rigidbody2D moves quickly in the dash direction. After the dash finishes, I turn it off with tr.emitting = false so the trail only shows during that burst of speed.
+
+<img width="339" height="692" alt="Screenshot 2025-11-06 at 3 00 31 pm" src="https://github.com/user-attachments/assets/88f337e8-cf95-462c-962b-ea4162398a7f" />
 
 ### Main Scripts
 
