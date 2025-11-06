@@ -6,7 +6,7 @@
 
 <h2 align="center">Table of Contents</h2>
 
-- [Quick Demonstration & Gameplay](#Gameplay-&-Map-Showcase)
+- [Gameplay & Map Showcase](#Gameplay-&-Map-Showcase)
 - [Gameplay](#Gameplay)
 - [Map Showcase](#Map-Showcase)
 - [General Information](#General-Information)
@@ -130,6 +130,7 @@ Excact Song used in My Game: https://www.youtube.com/watch?v=wMvVW4jRFZ8&list=RD
 | Main Menu | https://www.youtube.com/watch?v=kV9rVinFyAk |
 | Wall Jump | https://www.youtube.com/watch?v=sfDnN-Im7rY |
 | Dash Feature | https://www.youtube.com/watch?v=2kFGmuPHiA0 |
+| Music | https://www.youtube.com/watch?v=N8whM1GjH4w |
 
 
 
