@@ -85,7 +85,7 @@ The games' catchy audio track in the background is provided by my cousin: Andrew
 
 Follow his music here: https://www.youtube.com/@AndrewLambrou
 </p>
-Excact Song used in My Game: https://www.youtube.com/watch?v=wMvVW4jRFZ8&list=RDwMvVW4jRFZ8&start_radio=1
+Exact Song used in My Game: https://www.youtube.com/watch?v=wMvVW4jRFZ8&list=RDwMvVW4jRFZ8&start_radio=1
 </p>
 
 
@@ -159,8 +159,6 @@ When the player dashes, the coroutine Dash() starts. Inside it, I set tr.emittin
 <img width="660" height="314" alt="Screenshot 2025-11-05 at 12 39 36 pm" src="https://github.com/user-attachments/assets/b9c4b0de-712f-4f56-95f7-a8deddd4d94d" />
 <img width="660" height="314" alt="Screenshot 2025-11-05 at 12 40 12 pm" src="https://github.com/user-attachments/assets/d931cfab-03dd-4b00-b7f2-3453e422038a" />
 <img width="617" height="333" alt="Screenshot 2025-11-05 at 7 51 56 pm" src="https://github.com/user-attachments/assets/54bd750f-5c3e-416f-9be3-ff86268fd1f5" />
-<img width="451" height="88" alt="Screenshot 2025-11-06 at 2 09 39 pm" src="https://github.com/user-attachments/assets/d778b99e-f7c5-4be5-af99-053896e65d82" />
-
 
 
 ## All Tutorials Used
