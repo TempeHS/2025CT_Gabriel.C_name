@@ -6,7 +6,7 @@
 
 <h2 align="center">Table of Contents</h2>
 
-- [Quick Demonstration & Gameplay](#quick-demonstration--gameplay)
+- [Quick Demonstration & Gameplay](#Gameplay-&-Map-Showcase)
 - [Gameplay](#Gameplay)
 - [Map Showcase](#Map-Showcase)
 - [General Information](#General-Information)
@@ -22,7 +22,7 @@
 - [All Tutorials](#All-Tutorials-Used)
 ---
 
-## Quick Demonstration & Gameplay
+## Gameplay & Map Showcase
 
 
 
