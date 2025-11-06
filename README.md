@@ -1,7 +1,7 @@
 
 # 2025CT_Gabriel.C_Conquest
 
-<img width="686" height="369" alt="Screenshot 2025-11-05 at 2 11 00 pm" src="https://github.com/user-attachments/assets/c2bee39c-a088-45ae-bfe2-606b2e4cb80f" />
+<img width="679" height="384" alt="Screenshot 2025-11-06 at 11 33 03 am" src="https://github.com/user-attachments/assets/765eefa8-2ca4-46a0-8817-f826f227a8b1" />
 
 
 <h2 align="center">Table of Contents</h2>
