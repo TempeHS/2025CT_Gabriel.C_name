@@ -128,6 +128,9 @@ Excact Song used in My Game: https://www.youtube.com/watch?v=wMvVW4jRFZ8&list=RD
 | Parralax | https://www.youtube.com/watch?v=ZYZfKbLxoHI |
 | Spike Mechanic | https://www.youtube.com/watch?v=kV9rVinFyAk |
 | Main Menu | https://www.youtube.com/watch?v=kV9rVinFyAk |
+| Wall Jump | https://www.youtube.com/watch?v=sfDnN-Im7rY |
+| Dash Feature | https://www.youtube.com/watch?v=2kFGmuPHiA0 |
+
 
 
 
